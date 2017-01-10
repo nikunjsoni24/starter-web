@@ -2,7 +2,10 @@
 
 This repository is for showing how Git and GitHub work
 
+
 ## Introduction
+
+I am lucky
 
 ## Purpose
 
