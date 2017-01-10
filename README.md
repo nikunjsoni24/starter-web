@@ -18,3 +18,6 @@ All people are lucky.
 
 ## How to Contribute
 Just bless everybody
+
+##CopyRight
+asdh
