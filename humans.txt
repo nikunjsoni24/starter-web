@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks Vihal Vijay and Lavin
 
 # TECHNOLOGY COLOPHON
 
