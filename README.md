@@ -14,4 +14,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+All people are lucky.
+
 ## How to Contribute
+Just bless everybody
